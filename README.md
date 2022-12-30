@@ -4,4 +4,5 @@ This project is an application called Note Taker that let's users write and save
 
 ## Screenshot
 ![Image](public/assets/images/B099D9FF-576E-43AF-A155-A82173693A2A.jpeg)
+![Image](public/assets/images/A0E042BB-2F8A-471B-B0AD-D3200C26CA74.jpeg)
 <a href= "https://polar-crag-27209.herokuapp.com/>" target="_blank">Link
